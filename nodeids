@@ -1,0 +1,7 @@
+[
+  "tests/test_app.py::test_flask_predict_endpoint",
+  "tests/test_app.py::test_health_endpoint",
+  "tests/test_app.py::test_is_merchant_dest_flag",
+  "tests/test_app.py::test_predict_transaction_returns_expected_keys",
+  "tests/test_app.py::test_single_transaction_to_frame_has_expected_columns"
+]
